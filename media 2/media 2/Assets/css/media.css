@@ -1,0 +1,1054 @@
+ @media (max-width:575px) {
+     .col-xs-1 {
+         width: 8.33%;
+     }
+
+     .col-xs-2 {
+         width: 16.66%;
+     }
+
+     .col-xs-3 {
+         width: 25%;
+     }
+
+     .col-xs-4 {
+         width: 33.33%;
+     }
+
+     .col-xs-5 {
+         width: 41.66%;
+     }
+
+     .col-xs-6 {
+         width: 50%;
+     }
+
+     .col-xs-7 {
+         width: 58.33%;
+     }
+
+     .col-xs-8 {
+         width: 66.66%;
+     }
+
+     .col-xs-9 {
+         width: 75%;
+     }
+
+     .col-xs-10 {
+         width: 83.33%;
+     }
+
+     .col-xs-11 {
+         width: 91.66%;
+     }
+
+     .col-xs-12 {
+         width: 100%;
+     }
+
+     .d-xs-none {
+         display: none;
+     }
+
+     .d-xs-flex {
+         display: flex;
+     }
+     .xs-center{
+        text-align: center;
+     }
+     .banner-content{
+        justify-content: center;	
+        align-items: center;
+        text-align: center;
+       
+    }
+    .banner-content h1{
+        font-size:45px;
+    }
+    .banner-content h1 span{
+        font-size:45px;
+    }
+    .banner{
+        overflow: hidden;
+    }
+    .poster{
+        position: relative;
+        top: 0;
+        right: 0px;
+        overflow-X:hidden;
+        width: 100%;
+        overflow: hidden;
+    }
+    .man{
+        width: 420px;
+    }
+    .poster::after{
+        width:420px;
+        height:420px;
+        background-size: cover;
+    }
+    .blackdot1{ 
+        top:20%; 
+        right:76%;
+    }
+    .blackdot2{ 
+        top:50%; 
+        right:15%;
+    }
+    /* ........... */
+    .about{
+        text-align: center;
+    }
+    .pera{
+        font-size:35px;
+        text-align: center;
+        justify-content: center;
+    }
+    .btn2{
+        font-size: 19px;
+    }
+    .about-markstevan{
+        padding-top:20px;
+    }
+    .down-arrow{
+        padding:0px;
+    }
+    .stevan-taxt{
+        text-align: center;
+    }
+    .success{
+        display: flex;
+        flex-direction: column-reverse;
+        text-align: center;
+        padding: 0;
+    }
+    .success-text h2{
+        font-size: 47px;
+    }
+    .book-img img{
+        width:400px;
+    }
+    .exeperiaence-img img{
+        width:380px;
+    }
+    .popular-img img{
+        width:450px;
+        height: 400px;
+    }
+    .popular-content{
+        width: 90%;
+        position:relative;
+        margin-top:-270px;
+    }
+    .clear-sm{
+        clear:both
+    }
+    .popular-start{
+        text-align: center;
+    }
+    .schedual h4,.schedual{
+        text-align: center;
+        font-size: 41px;
+    }
+    .sh-date h3{
+        font-size: 41px;
+    }
+    .schedual-info p{
+        font-size:15px;
+        padding:10px 0px;
+    }
+    .testimonial-text h2{
+        font-size:41px;
+    }
+    .testimonial-text span{
+        font-size: 13px;
+    }
+    .testimonial-pic img{
+        display:flex;
+        flex-wrap: wrap;
+        width:100%;
+        height:100%;
+        transition:1s;
+    }
+    .trust-content h2{
+        font-size: 41px;
+    }
+    .img-number{
+        display: flex;
+        flex-direction: column-reverse;
+        padding-bottom: 350px;
+    }
+    .contact-img img{
+        width:412px;
+        height:412px;
+        border-radius:10px;
+        margin-top:400px;
+        position:absolute;
+        justify-content: center;
+    }
+    .contact-no p{
+        font-size:27px;
+        padding:20px;
+    }
+    .contact-no h2{
+        font-size:var(--fs-36);
+    }
+    .email-form{
+        padding-top: 60px;
+    }
+    .foot-end{
+        display: flex;
+        flex-direction: column-reverse;
+    }
+
+     
+
+
+ }
+ @media (min-width:576px) {
+    .col-sm-1{
+        width:8.33%;
+    }
+    .col-sm-2{
+        width:16.66%;
+    }
+    .col-sm-3{
+        width:25%;
+    }
+    .col-sm-4{
+        width:33.33%;
+    }
+    .col-sm-5{
+        width:41.66%;
+    }
+    .col-sm-6{
+        width:50%;
+    }
+    .col-sm-7{
+        width:58.33%;
+    }
+    .col-sm-8{
+        width:66.66%;
+    }
+    .col-sm-9{
+        width:75%;
+    }
+    .col-sm-10{
+        width:83.33%;
+    }
+    .col-sm-11{
+        width:91.66%;
+    }
+    .col-sm-12{
+        width:100%;
+    }
+    .d-sm-none{
+        display:none;
+    }
+    .d-sm-flex{
+        display:flex;
+    }
+    .d-center{
+        text-align: center;
+    }
+    .banner-content{
+        justify-content: center;	
+        align-items: center;
+        text-align: center;
+        
+    }
+    .banner-content span{
+        font-size:14px;
+    }
+    .banner-content h1{
+        font-size:45px;
+    }
+    .banner-content h1 span{
+        font-size:45px;
+    }
+    .poster{
+        position: relative;
+        top: 0;
+        right: 0px;
+        overflow-X:hidden;
+        width: 100%;
+        overflow: hidden;
+    }
+    .man{
+        width: 90%;
+    }
+    .poster::after{
+        width:500px;
+        height:500px;
+        background-size: cover;
+    }
+    .blackdot1{ 
+        top:20%; 
+        right:80%;
+    }
+    .blackdot2{ 
+        top:50%; 
+        right:15%;
+    }
+    .pera{
+        font-size:35px;
+        padding: 0px 30px;
+    }
+/* ................... */
+    .about{
+        text-align: center;
+    }
+    .pera{
+        font-size:35px;
+        text-align: center;
+        justify-content: center;
+    }
+    .stevan-taxt{
+        text-align: center;
+    }
+    .stevan-taxt h2{
+        font-size:41px;
+    }
+    .stevan-taxt .text1{
+        font-size:18px
+    }
+    .about-markstevan{
+     
+        background-position:-250px 100px;
+    }
+    .success{
+        display: flex;
+        flex-direction: column-reverse;
+        text-align: center;
+        padding: 0;
+    }
+    .success-text h2{
+        font-size: 47px;
+    }
+    .book-img img{
+        width:400px;
+    }
+    .exeperiaence-img img{
+        width:430px;
+    }
+    .popular-img img{
+        width:450px;
+        height: 400px;
+    }
+    .popular-content{
+        width: 90%;
+        position:relative;
+        margin-top:-270px;
+    }
+    .clear-sm{
+        clear:both
+    }
+    .popular-start{
+        text-align: center;
+    }
+    .schedual h4,.schedual{
+        text-align: center;
+        font-size: 41px;
+    }
+    .sh-date h3{
+        font-size: 41px;
+    }
+    .schedual-info p{
+        font-size:15px;
+        padding:10px 0px;
+    }
+    .trust-content h2{
+        font-size: 41px;
+    }
+      .img-number{
+        display: flex;
+        flex-direction: column-reverse;
+        padding-bottom: 350px;
+    }
+    .contact-img img{
+        width:412px;
+        height:412px;
+        border-radius:10px;
+        margin-top:400px;
+        position:absolute;
+        justify-content: center;
+    }
+    .contact-no p{
+        font-size:27px;
+        padding:20px;
+    }
+    .contact-no h2{
+        font-size:var(--fs-36);
+    }
+    .email-form{
+        padding-top: 60px;
+    }
+    .foot-end{
+        display: flex;
+        flex-direction: column-reverse;
+    }
+     
+
+    
+}
+   
+@media (min-width:768px) {
+    .col-md-1{
+        width:8.33%;
+    }
+    .col-md-2{
+        width:16.66%;
+    }
+    .col-md-3{
+        width:25%;
+    }
+    .col-md-4{
+        width:33.33%;
+    }
+    .col-md-5{
+        width:41.66%;
+    }
+    .col-md-6{
+        width:50%;
+    }
+    .col-md-7{
+        width:58.33%;
+    }
+    .col-md-8{
+        width:66.66%;
+    }
+    .col-md-9{
+        width:75%;
+    }
+    .col-md-10{
+        width:83.33%;
+    }
+    .col-md-11{
+        width:91.66%;
+    }
+    .col-md-12{
+        width:100%;
+    }
+    .d-md-none{
+        display:none;
+    }
+    .d-md-flex{
+        display:flex;
+    }
+    .banner-content{
+        justify-content: center;	
+        align-items: center;
+        text-align: center;
+        padding-top:2px ;
+        
+    }
+    .banner-content span{
+        font-size:18px;
+    }
+    .banner-content h1{
+        font-size:59px;
+    }
+    .banner-content h1 span{
+        font-size:59px;
+    }
+    .btn2{
+        font-size: 26px
+    }
+    .poster{
+        top: 0;
+        right:0;
+    }
+    .man{
+       width:90%;
+    }
+    .poster::after{
+        width:620px;
+        height:620px;
+        background-size: cover;
+    }
+    .blackdot1{ 
+        top:20%; 
+        right:85%;
+    }
+    .blackdot2{ 
+        top:50%; 
+        right:30%;
+    }
+    /* ........ */
+    .about{
+        padding:0px;
+    }
+    .pera{
+        font-size: 50px;
+        text-align: left;
+        padding: 0px;
+    }
+    .stevan-taxt{
+        text-align: left;
+    }
+    .stevan-taxt h2{
+        font-size:47px;
+    }
+    .stevan-taxt .text1{
+        font-size:20px
+    }
+    .model-img img{
+        width:330px;
+        border-radius:30px;
+    }
+    .about-markstevan{
+        background-position:-590px 90px;
+    }
+    .success{
+        display: flex;
+        text-align: left;
+        flex-direction: row;
+        padding: 0;
+    }
+    .success-text h2{
+        font-size: 47px;
+    }
+    .book-img img{
+        width:313px;
+    }
+    .success-text span{
+        font-size: 15px;
+    }
+    .success {
+        padding: 50px 0px 0px 50px;
+    }
+    .exeperiaence-img img{
+        width:293px;
+        margin-left: 20px;;
+    }
+
+    .popular-img img{
+        width:350px;
+    }
+    .popular-content{
+        width: 80%;
+        position:relative;
+        margin-top:-270px;
+    }
+    .popular-start{
+        text-align: left;
+    }
+    .schedual h4,.schedual{
+        text-align: left;
+        font-size: 44px;
+    }
+    .sh-date h3{
+        font-size: 41px;
+        align-items: center;
+        justify-content: center;
+    }
+    .schedual-info p{
+        font-size:17px;
+       align-items: center;
+
+    }
+    .trust-content h2{
+        font-size: 31px;
+    }
+    .contact-img img{
+        width:200px;
+        height:200px;
+        border-radius:10px;
+        margin-top:100px;
+        position:absolute;
+        justify-content: center;
+    }
+    .img-number{
+        display: flex;
+        flex-direction: row;
+        padding: 50px 0px 0px;
+    }
+    .contact-no p{
+        font-size:20px;
+        padding:20px;
+        text-align: left;
+    }
+    .contact-no h2{
+        text-align: left;
+        font-size:var(--fs-36);
+    }
+    .email-icon{
+        padding: 20px 0px 0px 30px;
+        text-align: left;
+    }
+    .foot-content{
+        justify-content: flex-start;
+    }
+    .footicon{
+        text-align: right;
+        justify-content: flex-end;
+    }
+    .footi-con{
+        margin-left: 50px;
+    }
+    .foot-end{
+        display: flex;
+        flex-direction: row;
+    }
+
+ 
+ 
+   
+}
+@media (min-width:992px) {
+    /* .container{
+        max-width: 1000px;
+    } */
+    .col-lg-1{
+        width:8.33%;
+    }
+    .col-lg-2{
+        width:16.66%;
+    }
+    .col-lg-3{
+        width:25%;
+    }
+    .col-lg-4{
+        width:33.33%;
+    }
+    .col-lg-5{
+        width:41.66%;
+    }
+    .col-lg-6{
+        width:50%;
+    }
+    .col-lg-7{
+        width:58.33%;
+    }
+    .col-lg-8{
+        width:66.66%;
+    }
+    .col-lg-9{
+        width:75%;
+    }
+    .col-lg-10{
+        width:83.33%;
+    }
+    .col-lg-11{
+        width:91.66%;
+    }
+    .col-lg-12{
+        width:100%;
+    }
+    .d-lg-none{
+        display:none;
+    }
+    .d-lg-flex{
+        display:flex;
+    }
+    .banner-content{
+        justify-content: flex-start;	
+        align-items: center;
+        text-align: left;
+        padding-top: 120px;
+    }
+    .banner-content span{
+        font-size:18px;
+    }
+    .banner-content h1{
+        font-size:52px;
+    }
+    .banner-content h1 span{
+        font-size:52px;
+    }
+    .btn2{
+        font-size: 16px;
+    }
+    .banner-content p{
+        padding:0px;
+        font-size:var(--fs-20);
+    }
+    .poster{
+        position: absolute;
+        top: 13%;
+        right: 0px;
+        overflow-X:hidden;
+        width: 45%;
+        overflow: hidden;
+    }
+    .man{
+        width: 90%;
+        right:0;
+    }
+    .poster::after{
+        width:400px;
+        height:400px;
+        background-size: cover;
+    }
+    .blackdot1{ 
+        top:15%; 
+        right:77%;
+    }
+    .blackdot2{ 
+        top:50%; 
+        right:15%;
+    }
+    .img1{
+        width:200px
+    }
+    .about{
+        padding:0px 50px;
+    }
+    .pera{
+        font-size: 70px;
+    }
+    .model-img img{
+        width:440px;
+        border-radius:30px;
+    }
+    .stevan-taxt{
+        text-align: left;
+    }
+    .stevan-taxt h2{
+        font-size:55px;
+    }
+    .stevan-taxt .text1{
+        font-size:24px
+    }
+    .about-markstevan{
+        background-position:-490px 90px;
+    }
+    .success{
+        padding: 50px 0px 0px 50px;
+    }
+    .exeperiaence-img img{
+        width:293px;
+    }
+    .popular-img img{
+        width:220px;
+    }
+    .popular-content{
+        width: 90%;
+        position:relative;
+        margin-top:-350px;
+    }
+    .schedual h4,.schedual{
+        text-align: left;
+        font-size: 55px;
+    }
+    .sh-date h3{
+        font-size: 55px;
+    }
+    .schedual-info p{
+        font-size:20px;
+        justify-content: center;
+    }
+    .trust-content h2{
+        font-size: 47px;
+    }
+    .contact-img img{
+        width:230px;
+        height:230px;
+        border-radius:10px;
+        margin-top:150px;
+        position:absolute;
+        justify-content: center;
+    }
+    .email-icon{
+        padding: 80px 0px 0px 30px;
+        text-align: left;
+        justify-content: center;
+    }
+   
+    
+   
+}
+@media (min-width:1200px) {
+    .col-xl-1{
+        width:8.33%;
+    }
+    .col-xl-2{
+        width:16.66%;
+    }
+    .col-xl-3{
+        width:25%;
+    }
+    .col-xl-4{
+        width:33.33%;
+    }
+    .col-xl-5{
+        width:41.66%;
+    }
+    .col-xl-6{
+        width:50%;
+    }
+    .col-xl-7{
+        width:58.33%;
+    }
+    .col-xl-8{
+        width:66.66%;
+    }
+    .col-xl-9{
+        width:75%;
+    }
+    .col-xl-10{
+        width:83.33%;
+    }
+    .col-xl-11{
+        width:91.66%;
+    }
+    .col-xl-12{
+        width:100%;
+    }
+    .d-xl-none{
+        display:none;
+    }
+    .d-xl-flex{
+        display:flex;
+    }
+    .banner-content span{
+        font-size:18px;
+    }
+    .banner-content h1{
+        font-size:63px;
+    }
+    .banner-content h1 span{
+        font-size:63px;
+    }
+    .poster{
+        position: absolute;
+        top: 10%;
+        right: 0px;
+        overflow-X:hidden;
+        width: 50%;
+        overflow: hidden;
+    }
+    .man{
+        width: 500px;
+        right:-10px;
+    }
+    .poster::after{
+        width:550px;
+        height:550px;
+        background-size: cover;
+    }
+    .blackdot1{ 
+        top:15%; 
+        right:77%;
+    }
+    .blackdot2{ 
+        top:50%; 
+        right:15%;
+    }
+    .img1 img{
+        width:300px;
+    }
+    .about{
+        padding-top:0px 50px;
+    }
+    .pera{
+        font-size: 70px;
+    }
+    .stevan-taxt{
+        text-align: left;
+        padding-left: 10px;
+    }
+    .stevan-taxt h2{
+        font-size:55px;
+    }
+    .stevan-taxt .text1{
+        font-size:24px
+    }
+    .model-img img{
+        width:440px;
+    }
+    .about-markstevan{
+        background-position:-400px 90px;
+    }
+    .book-img img{
+        width:410px; 
+    }
+    .success{
+        padding: 50px 0px 0px 50px;
+    }
+    .success-text form input{
+        width:90%;
+        margin: 15px;
+    }
+    .exeperiaence-img img{
+        width:293px;
+    }
+    .popular-img img{
+        width:250px;
+    }
+    .popular-content{
+        width: 90%;
+        position:relative;
+        margin-top:-300px;
+    }
+    .trust-content h2{
+        font-size: 55px;
+    }
+    .contact-img img{
+        width:290px;
+        height:290px;
+        border-radius:10px;
+        margin-top:150px;
+        position:absolute;
+        justify-content: center;
+    }
+    .email-icon{
+        padding: 100px 0px 0px 50px;
+        text-align: left;
+        justify-content: center;
+    }
+   
+   
+   
+}
+@media (min-width:1400px) {
+    .col-xxl-1{
+        width:8.33%;
+    }
+    .col-xxl-2{
+        width:16.66%;
+    }
+    .col-xxl-3{
+        width:25%;
+    }
+    .col-xxl-4{
+        width:33.33%;
+    }
+    .col-xxl-5{
+        width:41.66%;
+    }
+    .col-xxl-6{
+        width:50%;
+    }
+    .col-xxl-7{
+        width:58.33%;
+    }
+    .col-xxl-8{
+        width:66.66%;
+    }
+    .col-xxl-9{
+        width:75%;
+    }
+    .col-xxl-10{
+        width:83.33%;
+    }
+    .col-xxl-11{
+        width:91.66%;
+    }
+    .col-xxl-12{
+        width:100%;
+    }
+    .d-xxl-none{
+        display:none;
+    }
+    :root{
+    --fs-14:13px;
+	--fs-16:16px;
+	--fs-20:20px;
+	--fs-22:22px;
+	--fs-24:24px;
+	--fs-36:36px;
+	--fs-55:55px;
+	--fs-70:65px;
+    }
+    .d-xxl-flex{
+        display:flex;
+    }
+    .poster{
+        position: absolute;
+        top: 0%;
+        right: 0px;
+        overflow-X:hidden;
+        width: 45%;
+        overflow: hidden;
+    }
+    .man{
+        width: 500px;
+        right:0px;
+    }
+    .poster::after{
+        width:550px;
+        height:550px;
+        background-size: cover;
+    }
+    .blackdot1{ 
+        top:15%; 
+        right:77%;
+    }
+    .blackdot2{ 
+        top:50%; 
+        right:15%;
+    }
+    .blank{
+        height:250px;
+    }
+    .img1 {
+        width:300px;
+    }
+    .about{
+        padding-top:180px 50px;
+    }
+    .pera{
+        font-size: 70px;
+    }
+    .stevan-taxt{
+        text-align: left;
+        padding-left: 10px;
+    }
+    .stevan-taxt h2{
+        font-size:55px;
+    }
+    .stevan-taxt .text1{
+        font-size:24px
+    }
+    .about-markstevan{
+        background-position:-390px 100px;
+    }
+    
+  
+    .success-text p{
+        color:var(--black-800);
+        padding:15px;
+        line-height:var(--lh);
+    }
+    .success-text span{
+        font-size:var(--fs-24);
+        color:var(--black-600);
+        font-weight:var(--fw-600);
+        padding:20px 15px;
+    }
+    .success-text form input{
+        width:90%;
+        padding: 15px;
+        border:0px;
+        border-bottom:2px solid var(--primary-color);
+        outline:none;
+    }
+    input:focus::placeholder{
+        color:var(--primary-color);
+        padding:5px 0 0 5px;
+    }
+    .success-text .btnbook a{
+        color:var(--black-color);
+    }
+    .success-text .btnbook{
+        width:90%;
+        margin:20px auto;
+        padding:10px 30px;
+        border:0px;
+        border-radius:30px;
+        color:var(--black-color);
+    }
+    .book-img img{
+            width:410px; 
+    }
+    .success-end{
+        font-size:var(--fs-55);
+    }
+    .trust-content h2{
+        font-size: 55px;
+    }
+    
+    
+}
